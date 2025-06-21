@@ -1,0 +1,8 @@
+.back-link {
+    text-decoration: none;
+    color: #007BFF;
+}
+
+.back-link:hover {
+    text-decoration: underline;
+} 
